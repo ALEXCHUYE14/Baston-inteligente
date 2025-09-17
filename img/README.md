@@ -1,6 +1,6 @@
-# Bastón Inteligente VITALITY - Landing Page
+# Bastón Inteligente SMART CANE - Landing Page
 
-Esta es la landing page profesional diseñada para el bastón inteligente VITALITY. El objetivo es promocionar el producto, destacar sus características de seguridad y generar interés para que los usuarios se pongan en contacto a través de WhatsApp.
+Esta es la landing page profesional diseñada para el bastón inteligente SMART CANE. El objetivo es promocionar el producto, destacar sus características de seguridad y generar interés para que los usuarios se pongan en contacto a través de WhatsApp.
 
 ## Características Principales del Proyecto
 
