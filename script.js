@@ -25,7 +25,7 @@ document.addEventListener('DOMContentLoaded', () => {
         const name = document.getElementById('name').value;
         const phone = document.getElementById('phone').value;
         const whatsappNumber = '51924996961'; // **Reemplaza con tu número de teléfono (con código de país, sin el signo +)**
-        const message = `Hola, mi nombre es ${name}. Me gustaría obtener más información sobre el Bastón Inteligente VITALITY. Mi teléfono es: ${phone}.`;
+        const message = `Hola, mi nombre es ${name}. Me gustaría obtener más información sobre el Bastón Inteligente SMART CANE. Mi teléfono es: ${phone}.`;
 
         const encodedMessage = encodeURIComponent(message);
         const whatsappURL = `https://wa.me/${whatsappNumber}?text=${encodedMessage}`;
