@@ -496,4 +496,25 @@ footer {
     .social-links {
         text-align: center;
     }
+
+    /* Adaptar imagen de portada en móvil */
+    .hero-section {
+        background-position: center center;
+        background-size: cover;
+        min-height: 100vh;
+        height: 100dvh;
+        width: 100vw;
+        padding: 0;
+        margin: 0;
+        border-radius: 0;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+    .hero-content {
+        width: 100vw;
+        max-width: 100vw;
+        box-sizing: border-box;
+        padding: 0 10px;
+    }
 }
